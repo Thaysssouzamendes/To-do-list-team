@@ -26,7 +26,7 @@ Desenvolver, utilizando os conceitos abordados ao longo do módulo, uma aplicaç
 
 # Lógica de Programação - Projeto final
 
-O que?
+- O que?
 
 Desenvolver, utilizando os conceitos abordados ao longo do módulo, uma aplicação de lista de tarefas (ToDo List).
 
